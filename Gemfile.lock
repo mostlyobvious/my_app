@@ -183,7 +183,6 @@ GEM
       childprocess (>= 0.5, < 5.0)
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2)
-    sqlite3 (1.4.2)
     stimulus-rails (1.0.2)
       railties (>= 6.0.0)
     strscan (3.0.1)
@@ -225,7 +224,6 @@ DEPENDENCIES
   rails (~> 7.0.1)
   redis (~> 4.0)
   selenium-webdriver
-  sqlite3 (~> 1.4)
   stimulus-rails
   turbo-rails
   tzinfo-data
